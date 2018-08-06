@@ -1,2 +1,4 @@
 Git is a mayuhan version control system.
 Git is free software ceshi.
+
+曾经沧海难为水，除却乌云不是山
